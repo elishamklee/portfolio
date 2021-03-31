@@ -835,12 +835,12 @@ footer {
 /* Responsive Tablet              */
 /*================================*/
 
-@media only screen and (max-width:900px) {
+@media only screen and (max-width:768px) {
 	header {
 		width: 4.2vw;
 	}
 	h2 {
-		font-size: 409%;
+		font-size: 600%;
 	}
 	h3 {
 		font-size : 300%;
@@ -866,7 +866,7 @@ footer {
 /* Responsive Mobile              */
 /*================================*/
 
-@media only screen and (max-width:650px) {
+@media only screen and (max-width:500px) {
 	body {
 		font-size: 13px;
 		line-height: 22px;
@@ -903,7 +903,7 @@ footer {
 		height: auto;
 	}
 	h2 {
-		font-size: 350%;
+		font-size: 500%;
 	}
 	h3 {
 		font-size: 250%;

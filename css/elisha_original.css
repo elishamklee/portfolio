@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Quicksand:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,700);
 @import url(https://fonts.googleapis.com/css?family=Vidaloka);
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@100;400&display=swap');
 
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 
@@ -468,7 +469,7 @@ p {
 	margin: 0;
 }
 h1,h2,h3,h4{
-	font-family: 'Abril Fatface','Georgia','Times New Roman', serif;
+	font-family: 'Archivo Black', Arial, Helvetica, sans-serif;
 	font-weight: normal;
 	letter-spacing: 2px;
 	margin:0;
@@ -478,7 +479,7 @@ h1 {
 	font-size: 95%;
 }
 h2 {
-	font-size: 480%;	
+	font-size: 800%;	
 	padding-bottom: 30px;
 }
 h3 {

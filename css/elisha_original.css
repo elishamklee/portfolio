@@ -504,6 +504,12 @@ h5 {
 .center {
 	text-align: center;
 }
+.right {
+	text-align: right;
+}
+.bottom {
+	vertical-align: bottom;
+}
 .white_font {
 	color: #fff;
 }

@@ -508,7 +508,7 @@ h5 {
 	text-align: right;
 }
 .bottom {
-	vertical-align: bottom;
+	vertical-align: bottom !important;
 }
 .white_font {
 	color: #fff;

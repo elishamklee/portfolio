@@ -686,7 +686,7 @@ div[class^="span_"] {
 	float:left;
 }
 .mobile {
-	padding:inherit;
+	padding-top:0;
 	text-align:inherit;
 }
 .real img {
@@ -874,6 +874,11 @@ footer {
 		float:left;
 		width:100%;
 	}
+	.mobile {
+		padding-top: 5vw;
+		padding-bottom: 5w;
+		text-align: left;
+	}
 
 }
 
@@ -891,10 +896,7 @@ footer {
 		display: none !important;
 	}
 
-	.mobile {
-		padding: 5vw 0;
-		text-align: left;
-	}
+	
 	.backtopage {
 		color: #fff;
 	    background: rgba(255,255,255,1);

@@ -685,10 +685,7 @@ div[class^="span_"] {
 	display: block;
 	float:left;
 }
-.mobile {
-	padding-top:0;
-	text-align:inherit;
-}
+
 .real img {
 	width: auto;
 }

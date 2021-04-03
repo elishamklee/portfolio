@@ -894,7 +894,7 @@ footer {
 	}
 
 	
-	.backtopage {
+	/*.backtopage {
 		color: #fff;
 	    background: rgba(255,255,255,1);
 	    line-height: 26px;
@@ -910,7 +910,9 @@ footer {
 	.backtopage > a {   
         padding: 0 12px;
 		color:#111 !important;
-    }
+    }*/ .backtopage {
+	    display:none;
+	}
 	.contents_wrapper, .full_height .contents_wrapper {
 		width: 100%;
 		float: left;

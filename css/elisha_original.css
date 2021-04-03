@@ -653,10 +653,10 @@ div[class^="span_"] {
 	width: 33.33% !important;
 }
 .space_top {
-	padding-top: 5vw;
+	padding-top: 5vh;
 }
 .space_bottom {
-	padding-bottom: 5vw;
+	padding-bottom: 5vh;
 }
 .space_left {
 	padding-left: 5vw;

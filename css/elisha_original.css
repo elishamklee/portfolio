@@ -909,6 +909,7 @@ footer {
 	}
 	.backtopage > a {   
         padding: 0 12px;
+		color:#111 !important;
     }
 	.contents_wrapper, .full_height .contents_wrapper {
 		width: 100%;

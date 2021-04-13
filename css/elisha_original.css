@@ -459,6 +459,9 @@ header {
 img {
 	width: 100%;
 }
+img.rwd {
+	width: 80%;
+}
 a, a:hover, a:visited, a:active, a:link {
 	color: #111;
 	text-decoration: none;
@@ -936,6 +939,9 @@ footer {
 	.three > div {
 		width: 50% !important;
 	} 
+	img.rwd {
+		width: 100%;
+	}
 }
 
 @media only screen and (max-device-width:760px) {

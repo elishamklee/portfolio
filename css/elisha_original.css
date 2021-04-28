@@ -594,7 +594,7 @@ article.full_height {
 }
 .contents_wrapper {
 	display:block;
-	width: 95.7vw;
+	width: 100%;
 	float: right;
 }
 .c_contents {

@@ -942,6 +942,9 @@ footer {
 	img.rwd {
 		width: 100%;
 	}
+	.hide {
+		display: none;
+	}
 }
 
 @media only screen and (max-device-width:760px) {

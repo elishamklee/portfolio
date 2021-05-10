@@ -570,6 +570,7 @@ div[class*="col_"] {
 .flex.members, .flex.social {
   align-items : flex-start;
   flex-wrap: nowrap;
+height: auto;
 }
 .flex.members > div:last-child {
   flex-grow: 1;
